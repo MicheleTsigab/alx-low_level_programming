@@ -1,4 +1,5 @@
 #include "main.h"
+#include "_putchar.h"
 /**
 *print_times_table - prints the  times table with
 *parameter
