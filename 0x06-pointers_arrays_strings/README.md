@@ -1,2 +1,1 @@
-#0x06-pointers_arrays_strings
-More pointers arrays and strings
+My Ox06 Pointers , Arrays and String task
